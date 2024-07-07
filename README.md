@@ -1,5 +1,6 @@
-# ADTrans
-## Steps to get started
+# Panoptic Scene Graph Biased Annotation
+Please refer to [page](https://github.com/lili0415/PSG-biased-annotation) for the whole project.
+<!-- ## Steps to get started
 To setup the environment, we use `conda` to manage our dependencies.
 
 Our developers use `CUDA 10.1` to do experiments.
@@ -65,5 +66,5 @@ python tools/test.py  \
 configs/psgtr/psgtr_r50_psg.py \
 work_dirs/PATH_TO_PSGTR_CHECKPOINT \
 --eval sgdet
-```
+``` -->
 
